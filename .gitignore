@@ -1,0 +1,35 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Executables
+*.exe
+*.out
+
+# Go environment
+/.env
+
+# Dependency directories
+/vendor/
+/go.sum
+/go.mod
+
+# IDE-specific files and directories
+.vscode/
+.idea/
+
+# Operating System files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Output of `go tool trace`
+*.trace
+
+# Build output
+/build/
+
+.vs
